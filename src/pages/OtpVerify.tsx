@@ -150,7 +150,7 @@ const OtpVerify: React.FC = () => {
             flex: 1,
             justifyContent: "center",
             alignItems: "center",
-            marginTop: 150,
+            marginTop: 110,
           }}
         >
           <Image
